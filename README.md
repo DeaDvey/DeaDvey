@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning:           C++
 - 💞️ I’m looking to collaborate on:    https://theunderland.co.uk, 
 - 📫 How to reach me:                  deadvey@deadvey.xyz
-- 📚 I know:                           Python, C#, C++, HTML, JavaScript, CSS, Bash               
+- 📚 I know:                           Python, C#, C++, HTML, JavaScript, CSS, Bash, Haskell (Barely)        
 
 <!---
 DeaDvey/DeaDvey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
