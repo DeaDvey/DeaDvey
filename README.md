@@ -32,4 +32,3 @@ I have proficient experience in the following technologies:<br/>
 * Proficient in Linux and system management
 * Contributions to a variety of Open Source software projects
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?DeaDvey" frameborder="0"></iframe>
