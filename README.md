@@ -3,7 +3,7 @@
 # Hello World
 I like writing backend and low level code as well as websites.<br/>
 I am an A-Level Maths, Physics and Computer Science student in the UK<br/>
-[I mostly use Gitea](https://git.javalsai.tuxcord.net/deadvey)<br/>
+[I mostly use Gitea](https://git.javalsai.tuxcord.net/deadvey) so there isn't much to see on my Github<br/>
 
 # Technologies
 I have proficient experience in the following technologies:<br/>
@@ -31,3 +31,5 @@ I have proficient experience in the following technologies:<br/>
 * Written many websites and web based content using NodeJS
 * Proficient in Linux and system management
 * Contributions to a variety of Open Source software projects
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?DeaDvey" frameborder="0"></iframe>
