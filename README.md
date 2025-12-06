@@ -2,7 +2,8 @@
 
 # Hello World
 I like writing backend and low level code as well as websites.<br/>
-I am an A-Level Maths, Physics and Computer Science student in the UK<br/>
+I am currently writing a 16 bit kernel in assembly and an application layer protocol<br/>
+for transmitting object encoded pages over TCP in Rust.<br/>
 [I mostly use Gitea](https://git.javalsai.tuxcord.net/deadvey) so there isn't much to see on my Github<br/>
 
 # Technologies
